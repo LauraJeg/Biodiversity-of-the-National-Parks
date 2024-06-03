@@ -16,16 +16,14 @@ matplotlib.patches
 numpy
 ```
 #### Techniques used:
-```
-DataFrame manipulation
-Data wrangling using regex
-Visualisations
+- DataFrame manipulation
+- Data wrangling using regex
+- Visualisations
 
-----
 
 ### We were given two datasets; 
 
-----
+
 
 #### `species_info.csv` containing information on the different species in the National Parks with their conservation status.
 
